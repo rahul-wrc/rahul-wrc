@@ -60,7 +60,7 @@ Continuously strengthening my skills in RTL design, verification methodologies, 
 
 ## Connect With Me
 
-- **LinkedIn:**www.linkedin.com/in/rahulkaimaparambil
+- **LinkedIn:** www.linkedin.com/in/rahulkaimaparambil
  
 - **Email:** rahulr.wrc@gmail.com
 
