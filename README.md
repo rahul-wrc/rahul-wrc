@@ -28,10 +28,8 @@ I'm passionate about understanding digital systems from the RTL level through sy
 **ASIC Design & Physical Design**
 - Cadence Genus — Logic synthesis
 - Cadence Innovus — Physical design
-- Cadence Conformal LEC — Logic equivalence checking
 - Cadence Tempus — Static timing analysis
-- Cadence Virtuoso — Custom IC design
-- Yosys, OpenROAD, SKY130 HD
+- Yosys, OpenROAD
 - Floorplanning, placement, clock-tree synthesis, routing, and timing analysis
 
 **Embedded Systems & Firmware**
