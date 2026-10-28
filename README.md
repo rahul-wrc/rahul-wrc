@@ -20,7 +20,7 @@ I'm passionate about understanding digital systems from the RTL level through sy
 - Functional verification fundamentals
 
 **FPGA & Reconfigurable Computing**
-- Xilinx Vivado 2024.1
+- Xilinx Vivado
 - XSIM simulation
 - LUT-based logic and configurable routing
 - FPGA synthesis, implementation, and prototyping
@@ -43,10 +43,9 @@ I'm passionate about understanding digital systems from the RTL level through sy
 
 **Programming & Development Tools**
 
-`C` `Python` `Verilog` `SystemVerilog` `Git` `GitHub` `Linux`
+`C` `Python` `Verilog` `SystemVerilog` `Git` `Linux basics`
 
 ## Areas of Interest
-
 - RTL Design and Verification
 - Digital VLSI Design
 - ASIC Synthesis and Physical Design
@@ -61,9 +60,9 @@ Continuously strengthening my skills in RTL design, verification methodologies, 
 
 ## Connect With Me
 
-- **GitHub:** https://github.com/YOUR_USERNAME
-- **LinkedIn:** YOUR_LINKEDIN_URL
-- **Email:** YOUR_EMAIL
+- **LinkedIn:**www.linkedin.com/in/rahulkaimaparambil
+ 
+- **Email:** rahulr.wrc@gmail.com
 
 ---
 
